@@ -1,3 +1,5 @@
+Hello, world!
+
 # Spring PetClinic Sample Application
 
 
